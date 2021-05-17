@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskBP.Provider", "TestTaskBP.Provider\TestTaskBP.Provider.csproj", "{DCE3B187-CC86-40F6-82F7-FE695B6A3173}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskBP.Client", "TestTaskBP.Client\TestTaskBP.Client.csproj", "{40439441-0C58-423C-8258-B41F313A47D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE3B187-CC86-40F6-82F7-FE695B6A3173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE3B187-CC86-40F6-82F7-FE695B6A3173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE3B187-CC86-40F6-82F7-FE695B6A3173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE3B187-CC86-40F6-82F7-FE695B6A3173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40439441-0C58-423C-8258-B41F313A47D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40439441-0C58-423C-8258-B41F313A47D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40439441-0C58-423C-8258-B41F313A47D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40439441-0C58-423C-8258-B41F313A47D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
